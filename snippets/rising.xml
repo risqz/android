@@ -89,8 +89,8 @@
   <project path="hardware/qcom-caf/sm8350/audio" name="risingos13T/android_hardware_qcom_audio_sm8350" groups="qcom" revision="thirteen" />
   <project path="hardware/qcom-caf/sm8350/display" name="risingos13T/android_hardware_qcom_display_sm8350" groups="qcom" revision="thirteen" />
   <project path="hardware/qcom-caf/sm8350/media" name="risingos13T/android_hardware_qcom_media_sm8350" groups="qcom" revision="thirteen" />
-  <project path="vendor/qcom/opensource/commonsys-intf/display" name="risingos13T/android_vendor_qcom_opensource_display-commonsys-intf" groups="qcom,qssi" revision="thirteen" />
-  <project path="vendor/qcom/opensource/commonsys/display" name="risingos13T/android_vendor_qcom_opensource_display-commonsys" groups="qcom,qssi" revision="thirteen" />
+  <project path="vendor/qcom/opensource/commonsys-intf/display" name="RisingTechOSS/android_vendor_qcom_opensource_display-commonsys-intf" groups="qcom,qssi" revision="thirteen" />
+  <project path="vendor/qcom/opensource/commonsys/display" name="RisingTechOSS/android_vendor_qcom_opensource_display-commonsys" groups="qcom,qssi" revision="thirteen" />
   <project path="vendor/qcom/opensource/display" name="risingos13T/android_vendor_qcom_opensource_display" groups="qcom" revision="thirteen" />
   <project path="vendor/qcom/opensource/interfaces" name="risingos13T/android_vendor_qcom_opensource_interfaces" groups="qcom,qssi" revision="thirteen" />
 
