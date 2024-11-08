@@ -1088,4 +1088,5 @@
   <include name="snippets/lineage.xml" />
   <include name="snippets/pixel.xml" />
   <include name="snippets/rising.xml" />
+  <include name="snippets/qz.xml" />
 </manifest>

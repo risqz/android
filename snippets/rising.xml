@@ -20,7 +20,6 @@
 
   <!-- Frameworks -->
   <project path="frameworks/av" name="risingos13T/android_frameworks_av" groups="pdk" revision="thirteen" />
-  <project path="frameworks/base" name="risingos13T/android_frameworks_base" groups="pdk-cw-fs,pdk-fs" revision="thirteen" />
   <project path="frameworks/libs/net" name="risingos13T/android_frameworks_libs_net" groups="pdk-cw-fs,pdk-fs" revision="thirteen" />
   <project path="frameworks/libs/systemui" name="risingos13T/android_frameworks_libs_systemui" groups="pdk-cw-fs,pdk-fs" revision="thirteen" />
   <project path="frameworks/native" name="risingos13T/android_frameworks_native" groups="pdk" revision="thirteen" />
@@ -59,7 +58,6 @@
   <project path="packages/apps/Messaging" name="risingos13T/android_packages_apps_Messaging" groups="pdk-fs" revision="thirteen" />
   <project path="packages/apps/Nfc" name="risingos13T/android_packages_apps_Nfc" groups="apps_nfc,pdk-fs" revision="thirteen" />
   <project path="packages/apps/ParallelSpace" name="risingos13T/android_packages_apps_ParallelSpace" revision="thirteen" />
-  <project path="packages/apps/Personalizations" name="risingos13T/android_packages_apps_Personalizations" groups="pdk-fs" revision="thirteen" />
   <project path="packages/apps/Settings" name="risingos13T/android_packages_apps_Settings" groups="pdk-fs" revision="thirteen" />
 
   <!-- Modules -->  
@@ -82,10 +80,7 @@
   <project path="system/sepolicy" name="risingos13T/android_system_sepolicy" groups="pdk" revision="thirteen" />
 
   <!-- Vendor -->
-  <project path="vendor/addons" name="risingos13T/android_vendor_addons" revision="thirteen" />
   <project path="vendor/rising-prebuilts" name="risingos13T/android_vendor_rising-prebuilts" revision="thirteen" />
-  <project path="vendor/lineage" name="risingos13T/android_vendor_rising" revision="thirteen" />
-  <project path="vendor/pixel-framework" name="risingos13T/vendor_pixel-framework" revision="thirteen" />
   <project path="vendor/support" name="risingos13T/android_vendor_support" revision="thirteen" />
   <project path="vendor/risingOTA" name="RisingOSS-devices/android_vendor_RisingOTA" revision="thirteen" />
 
